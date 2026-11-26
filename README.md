@@ -8,7 +8,7 @@
 Ukážky mojich `SELECT` dotazov z reálnych projektov použitých v **MS SQL Server Management Studio (SSMS)**.
 
 ### 📂 Obsah repozitára
-* **[select_abfragen_beispiele.sql](./select_abfragen_beispiele.sql)** – zbierka praktických SQL dopytov z dvoch oblastí:
+* **[ukazky_selektov.sql](./ukazky_selektov.sql)** – zbierka praktických SQL dopytov z dvoch oblastí:
   * **Realitný portál (predaj bytov):** Základné `SELECT` dotazy, spájanie tabuliek pomocou `INNER JOIN` a úprava záznamov (`UPDATE`).
   * **Testovanie informačného systému (colná / logistická doména):**
     * Filtrovanie platných záznamov na základe časových intervalov (`GETDATE()`, `NULL` hodnoty) a operátora `IN`.
